@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  OnScreenView.h
 //  ChallengeSix
 //
 //  Created by Neil Makn on 5/2/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface OnScreenView : UITableViewController
 
 @end
-
